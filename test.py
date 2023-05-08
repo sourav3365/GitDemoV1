@@ -1,5 +1,5 @@
 def function():
-    print("This function does not do much thing")
+    print("This function does not do much thing, making change in the same line")
     pass
 def adding():
     print("Adding a completely new function")
